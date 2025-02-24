@@ -52,4 +52,4 @@ This roadmap is shared under the [Creative Commons Attribution 4.0 International
 
 ---
 
-Have questions or ideas? Let’s build DeepSRT together! ❤️
+Have questions or ideas? Let’s collaborate on DeepSRT together! ❤️
