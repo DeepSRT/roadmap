@@ -45,8 +45,6 @@ We value your input! Here’s how you can contribute to DeepSRT’s future:
 - [Introducing DeepSRT](https://www.youtube.com/watch?v=RF7hWvbJWoE) 中文介紹
 - [DeepSRT 標榜提供最快 YouTube 影片摘要的免費擴充功能](https://www.koc.com.tw/archives/586485) from 電腦王阿達
 - [YouTube 免費 AI 中文總結 + AI 繁中字幕教學  「DeepSRT」香港用免 VPN、外語片輕鬆中文睇](https://unwire.hk/2025/02/21/deepsrt/ai/) from unwire.hk
-- 
-
 
 ## License
 
