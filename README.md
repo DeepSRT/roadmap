@@ -1,4 +1,4 @@
-# DeepSRT Roadmap
+# DeepSRT Public Roadmap
 
 Welcome to the public roadmap for DeepSRT, a Chrome extension that enhances your YouTube experience with fast, multilingual summaries and real-time AI-generated bilingual subtitles. 
 This repository is designed to keep you—our users—informed about where DeepSRT is heading, upcoming features, and how you can get involved. We’re excited to share our plans and hear your feedback!
