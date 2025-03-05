@@ -1,3 +1,6 @@
+Version - 1.2.2
+  - Fix [#4](https://github.com/DeepSRT/roadmap/issues/4) [#5](https://github.com/DeepSRT/roadmap/issues/5)
+
 Version - 1.2.1
   - New Language - 繁體中文(香港）
 
