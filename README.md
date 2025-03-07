@@ -48,6 +48,7 @@ We value your input! Here’s how you can contribute to DeepSRT’s future:
 - [游庭皓的財經皓角](https://www.youtube.com/live/vulWlFRePKM?t=537s)
 - [2025 年，我用 AI 找資料提升效率 400% 的方法](https://prompt.chiukaun.com/i/157825588/用-ai-看影片) by 周加恩
 - [數位時代 - 我用AI找資料，提升效率400%！拆解5大使用情境：怎麼問才能提升效率？](https://www.bnext.com.tw/article/82429/how-to-use-ai-improve-efficiency) by 周加恩
+- [看 YouTube 外語影片再也不會霧煞煞！ AI 雙語字幕即時翻譯工具 — DeepSRT 設定教學](https://mobileai.net/2025/03/07/deepsrt/) from 傳說中的挨踢部門
 
 
 
