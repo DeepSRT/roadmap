@@ -36,7 +36,7 @@ We value your input! Here’s how you can contribute to DeepSRT’s future:
 ## Known Limitations
 
 - No support for non-YouTube platforms yet (e.g., Vimeo, Twitch).
-- Arc browser is not supported due to [its own side panel implementation](https://www.perplexity.ai/search/does-arc-support-chome-side-pa-5dCxcoBAS2OgIvpGONiWKQ
+- Arc browser is not supported due to [its own side panel implementation](https://www.perplexity.ai/search/does-arc-support-chome-side-pa-5dCxcoBAS2OgIvpGONiWKQ)
 - Real-time subtitle generation may lag on low-end devices.
 
 ## Resources
