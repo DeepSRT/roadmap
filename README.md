@@ -51,7 +51,19 @@ We value your input! Here’s how you can contribute to DeepSRT’s future:
 - [看 YouTube 外語影片再也不會霧煞煞！ AI 雙語字幕即時翻譯工具 — DeepSRT 設定教學](https://mobileai.net/2025/03/07/deepsrt/) from 傳說中的挨踢部門
 - [AI 即時翻譯 YouTube 影片！DeepSRT 讓雙語字幕成為觀看標配](https://aitw.rakosell.com/zh/blog/page-37)
 
+## FAQ
 
+Q1: Is DeepSRT affiliated with DeepSeek or other Chinese AI models?
+
+A: No. DeepSRT is not affiliated with, related to, or connected to DeepSeek or any other AI models by China. Our name similarity is coincidental, and we operate as a completely independent service with different technology, ownership, and infrastructure. 
+
+Q2: Where does DeepSRT run its infrastructure?
+
+A: DeepSRT runs 100% on Cloudflare's infrastructure. All of our services, processing, and data handling occur exclusively within Cloudflare's global network, ensuring reliable performance, security, and compliance with relevant data regulations.
+
+Q3: What AI model powers DeepSRT's services?
+
+A: DeepSRT uses Google Gemini as our primary AI model. By leveraging Google's advanced AI technology, we're able to provide high-quality, reliable services while maintaining complete operational independence on Cloudflare's infrastructure.
 
 
 ## License
