@@ -1,3 +1,7 @@
+# Version - 1.3.1
+## 🐛 Bug Fixes
+  - Fixed [#19](https://github.com/DeepSRT/roadmap/issues/19)
+
 # Version - 1.3.0
 ## 🐛 Bug Fixes
 - zh-tw preferred when native zh-tw CC is available [#16](https://github.com/DeepSRT/roadmap/issues/16)
