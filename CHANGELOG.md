@@ -1,3 +1,11 @@
+# Version - 1.3.0
+## 🐛 Bug Fixes
+- zh-tw preferred when native zh-tw CC is available [#16](https://github.com/DeepSRT/roadmap/issues/16)
+
+## ✨ New Features
+- Introducing SRT Partner [#15](https://github.com/DeepSRT/roadmap/issues/15)
+
+
 # Version - 1.2.3
 ## 🐛 Bug Fixes
 - Fixed Chinese language selection mapping where zh-cn (Simplified Chinese) and zh-hk (Hong Kong Chinese) were incorrectly defaulting to zh-tw (Traditional Chinese) in subtitle requests [#13](https://github.com/DeepSRT/roadmap/issues/13)
