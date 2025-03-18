@@ -65,6 +65,9 @@ Q3: What AI model powers DeepSRT's services?
 
 A: DeepSRT uses Google Gemini as our primary AI model. By leveraging Google's advanced AI technology, we're able to provide high-quality, reliable services while maintaining complete operational independence on Cloudflare's infrastructure.
 
+## Awesome DeepSRT prompts
+
+- [Bill Chang’s Youtube Video Summary with clickable timestamps](https://cold-peripheral-15c.notion.site/1ba5997c54a2804c827df4f08753d130?v=1ba5997c54a280c08eba000c7eccb74a&p=1ba5997c54a280b79fcfe67e22ac3494&pm=s) - 透過DeepSRT的逐字稿產生詳盡的Summary並且附上可以跳轉的時間戳記
 
 ## License
 
