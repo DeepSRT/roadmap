@@ -50,6 +50,7 @@ We value your input! Here’s how you can contribute to DeepSRT’s future:
 - [數位時代 - 我用AI找資料，提升效率400%！拆解5大使用情境：怎麼問才能提升效率？](https://www.bnext.com.tw/article/82429/how-to-use-ai-improve-efficiency) by 周加恩
 - [看 YouTube 外語影片再也不會霧煞煞！ AI 雙語字幕即時翻譯工具 — DeepSRT 設定教學](https://mobileai.net/2025/03/07/deepsrt/) from 傳說中的挨踢部門
 - [AI 即時翻譯 YouTube 影片！DeepSRT 讓雙語字幕成為觀看標配](https://aitw.rakosell.com/zh/blog/page-37)
+- [【DeepSRT】2025 YouTube學外文必備AI工具：摘要、翻譯、雙語字幕、多種語言支援！高效學習外語的4種運用範例｜中日文主持人的舞台說話術EP.17](https://harukaliving.com/twjpmc/mctalk17/) by 劉宇彤Haruka
 
 ## FAQ
 
