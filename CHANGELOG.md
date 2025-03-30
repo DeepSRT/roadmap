@@ -1,3 +1,7 @@
+# Version - 1.3.2
+## 🐛 Bug Fixes
+  - Fixed [#21](https://github.com/DeepSRT/roadmap/issues/21)
+
 # Version - 1.3.1
 ## 🐛 Bug Fixes
   - Fixed [#19](https://github.com/DeepSRT/roadmap/issues/19)
