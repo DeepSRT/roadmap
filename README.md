@@ -8,7 +8,7 @@ This repository is designed to keep you—our users—informed about where DeepS
 DeepSRT is a minimalist, user-friendly tool that helps you quickly understand YouTube videos through intelligent summaries and supports accessibility with bilingual subtitles in languages like English, 
 Spanish, French, Japanese, Chinese, Korean, Thai, and more. Whether you're learning a language, saving time, or exploring content, DeepSRT is here to enhance your experience.
 
-- **Current Version**: 1.4.5 (as of May 27, 2025)
+- **Current Version**: 1.4.5 (as of May 29, 2025)
 - **Latest Release**: [Download on Chrome Web Store](https://chromewebstore.google.com/detail/deepsrt-experience-the-fa/mdaaadlpcanoofcoeanghbmpbdbhladd)
 - **Status**: Actively developed with community input
 
