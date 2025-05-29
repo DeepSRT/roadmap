@@ -1,3 +1,7 @@
+# Version - 1.4.5
+## 🐛 Bug Fixes
+  - Fixed [#51](https://github.com/DeepSRT/roadmap/issues/51)
+
 # Version - 1.4.0
 ## 🐛 Bug Fixes
   - Fixed [#35](https://github.com/DeepSRT/roadmap/issues/35) [#36](https://github.com/DeepSRT/roadmap/issues/36) [#37](https://github.com/DeepSRT/roadmap/issues/37) [#38](https://github.com/DeepSRT/roadmap/issues/38)
