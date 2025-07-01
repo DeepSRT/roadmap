@@ -1,11 +1,6 @@
 # Version - 1.5.2
 ## 🚀 Version 1.5.2 Release Ready!
 
-### **📋 Release Summary:**
-
-The comprehensive commit message captures the complete journey from initial bilingual caption issues to a 
-fully functional, professionally tested system:
-
 #### **🎯 Major Achievements:**
 - **Complete bilingual caption system** working for all language combinations
 - **Intelligent user control** that respects explicit user actions
