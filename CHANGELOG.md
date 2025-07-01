@@ -1,3 +1,31 @@
+# Version - 1.5.2
+## 🚀 Major Achievements
+- Complete bilingual caption system working for all language combinations
+- Intelligent user control that respects explicit user actions
+- Independent sidebar functionality regardless of Extension CC state
+- Server-side language-aware processing with dynamic AI prompts
+- Professional testing framework with 50+ comprehensive test cases
+
+## 🔧 Technical Improvements
+- Client-server coordination with explicit source/target languages
+- Multiple optimization point fixes preventing conflicts
+- Block count consistency eliminating 400 batch errors
+- Programmatic vs user click detection preventing false triggers
+- Dynamic AI prompt generation for accurate translations
+
+## 📚 Documentation
+- Added BILINGUAL_CAPTIONS_LESSONS_LEARNED.md - Complete technical guide
+- Added TEST_CASES.md - Professional QA framework
+- Updated README.md - Clear system behavior explanation
+- Added comprehensive regression checklist for future releases
+
+## 🌐 Language Support Matrix
+All combinations working correctly:
+- Chinese ↔ English, Korean, Japanese
+- Korean ↔ Chinese, English, Japanese  
+- Japanese ↔ Chinese, English, Korean
+- English ↔ All Asian languages
+
 # Version - 1.5.1
 ## 🐛 Bug Fixes
   - Fixed [#62](https://github.com/DeepSRT/roadmap/issues/62)
