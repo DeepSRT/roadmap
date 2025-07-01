@@ -1,4 +1,6 @@
 # Version - 1.5.2
+## 🐛 Bug Fixes
+  - Minor bug fixes and improvements
 
 # Version - 1.5.1
 ## 🐛 Bug Fixes
