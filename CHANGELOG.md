@@ -1,3 +1,5 @@
+# Version - 1.5.2
+
 # Version - 1.5.1
 ## 🐛 Bug Fixes
   - Fixed [#62](https://github.com/DeepSRT/roadmap/issues/62)
