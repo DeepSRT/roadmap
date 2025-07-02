@@ -132,3 +132,14 @@ This document outlines comprehensive test cases for the DeepSRT bilingual captio
   - [ ] Japanese translated captions at top
   - [ ] Korean native captions at bottom
   - [ ] Cross-CJK translation quality
+  - [ ] 
+
+## 🚀 Quick Perfect Match Test Checklist
+
+### Essential Tests Using Multi-Language Video (`vaGf8fmtBr4`)
+For rapid validation of perfect match optimization:
+
+- [ ] **zh-tw user** → [Maroon 5 video](https://www.youtube.com/watch?v=vaGf8fmtBr4) → Traditional Chinese captions (< 500ms)
+- [ ] **ko user** → [Maroon 5 video](https://www.youtube.com/watch?v=vaGf8fmtBr4) → Korean captions (< 500ms)  
+- [ ] **ja user** → [Maroon 5 video](https://www.youtube.com/watch?v=vaGf8fmtBr4) → Japanese captions (< 500ms)
+- [ ] **zh-cn user** → [Maroon 5 video](https://www.youtube.com/watch?v=vaGf8fmtBr4) → Simplified Chinese captions (< 500ms)
